@@ -3,7 +3,7 @@
 This example shows a very basic version of a *Destack* project with Next.js. 
 
 - There's one page, `pages/index.js`, that shows the visual editor (in development) and the compiled version (in production). 
-- All the magic is done in, `pages/api/builder/handle.js`, that has to setup once and handles saving and loading the templates.
+- All the magic is done in, `pages/api/builder/handle.js`, that has to be setup once and handles templates saving and loading.
 
 ## Deploy your own
 
