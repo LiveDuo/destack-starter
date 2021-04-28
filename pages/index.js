@@ -1,12 +1,3 @@
-import Link from 'next/link'
-
-export default function IndexPage() {
-  return (
-    <div>
-      Hello World.{' '}
-      <Link href="/about">
-        <a>About</a>
-      </Link>
-    </div>
-  )
-}
+import 'grapesjs/dist/css/grapes.min.css'
+export { getStaticProps } from 'destack/build/server'
+export { ContentProvider as default } from 'destack'
