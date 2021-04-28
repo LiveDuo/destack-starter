@@ -1,6 +1,9 @@
 # Destack Starter
 
-This example shows the a very basic version of Destack. There is one page, `pages/index.js`, which shows the visual editor in development and the compiled version in production and one API route, `pages/api/builder/handle.js`, that makes all the magic. After setting it up, you don't have to worry about it anymore.
+This example shows a very basic version of a *Destack* project with Next.js. 
+
+- There's one page, `pages/index.js`, that shows the visual editor (in development) and the compiled version (in production). 
+- All the magic is done in, `pages/api/builder/handle.js`, that has to setup once and handles saving and loading the templates.
 
 ## Deploy your own
 
