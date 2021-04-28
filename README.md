@@ -10,14 +10,15 @@ Deploy the example using [Vercel](https://vercel.com):
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
+Clone this repository:
 ```sh
 git clone https://github.com/liveduo/destack-starter
 ```
+Install dependencies:
 ```sh
 npm i
 ```
+Run the project in development:
 ```sh
 npm run dev
 ```
