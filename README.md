@@ -30,3 +30,10 @@ npm run dev
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new) ([Documentation](https://nextjs.org/docs/deployment)).
+
+If you need to deploy it with `index.html`, export it with:
+```sh
+npm run export
+```
+
+`index.html` will be exported in the `out` directory
