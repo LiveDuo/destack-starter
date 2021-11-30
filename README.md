@@ -36,4 +36,4 @@ Export the project to static HTML with:
 npm run export
 ```
 
-`index.html` will be exported in the `out` directory
+This will export `index.html` to the `out` directory.
